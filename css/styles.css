@@ -1,9 +1,15 @@
 body{
   background-color: #ffd8cc;
+  
 }
+
 .h1 {
 color: #fb92be;
 text-align: center;
 font: fantasy;
 
+}
+.textbox{
+  border: 2px solid #Fb9aac;
+  padding: 6px
 }
