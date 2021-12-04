@@ -11,7 +11,7 @@ font: fantasy;
 }
 .textbox{
   border: 2px solid #Fb9aac;
-  padding: 6px
+  padding: 100px
 }
 .personal p {
   background-color: #C1E1d2;
@@ -22,4 +22,8 @@ font: fantasy;
 .important p {
 text-align: left;
 
+}
+.project{
+  color: red;
+  text-align: left;
 }
