@@ -19,3 +19,7 @@ font: fantasy;
 .work p {
   background-color: #f6f8e8;
 }
+.important p {
+text-align: left;
+
+}
