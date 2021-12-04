@@ -13,3 +13,9 @@ font: fantasy;
   border: 2px solid #Fb9aac;
   padding: 6px
 }
+.personal p {
+  background-color: #C1E1d2;
+}
+.work p {
+  background-color: #f6f8e8;
+}
