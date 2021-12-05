@@ -1,18 +1,18 @@
-# Personal Website
-This is a project that showcases details about me and projects i have worked on.
+# Landing Page webpage
+This is a webpage that showcases details about me.
 
 # Name of Author
 Built by Lilian Wangechi
 
 # Live Demo
-live link goes here
+`https://lilianwangechi.github.io/landingpageIP1/`
 
 ## Description
-This is a project that showcases details about me and projects i have worked on.
+This is a project that showcases details about me and projects i am currently working on.
 
 ## Setup and installation
 To set this project up on your local machine ,follow the following steps:
--git clone(provide the source/link  use backtips so the user can get it as link)
+-git clone `https://github.com/lilianwangechi/landingpageIP1.git`
 -'cd mydiary'-use backticks
 -run the live server. 
 
@@ -20,8 +20,6 @@ To set this project up on your local machine ,follow the following steps:
 -HTML
 -CSS
 
-##
-link to live site on GitHub Pages
 
 ## Known Bugs
 No Known Bugs
