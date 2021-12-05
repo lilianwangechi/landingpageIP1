@@ -13,7 +13,6 @@ This is a project that showcases details about me and projects i am currently wo
 ## Setup and installation
 To set this project up on your local machine ,follow the following steps:
 -git clone `https://github.com/lilianwangechi/landingpageIP1.git`
--'cd mydiary'-use backticks
 -run the live server. 
 
 ## Technology Used
